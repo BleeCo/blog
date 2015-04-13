@@ -1,7 +1,7 @@
 name: Blee Blog
 description: Blog for getblee.com
 
-url: http://brianmaierjr.github.com/long-haul
+url: http://blog.getblee.com
 paginate_path: "/page:num/"
 permalink: /:title/
 
